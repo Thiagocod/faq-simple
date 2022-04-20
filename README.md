@@ -21,4 +21,4 @@ finished
 ## Project preview:
 ![FAQ](https://user-images.githubusercontent.com/65191024/164124070-b5681f8a-e51b-4cd0-985d-211e97d85c52.gif)
 
-## DEMO:
+## <a href="https://thiagocod.github.io/faq-simple/">Click to demo</a>
